@@ -20,4 +20,6 @@ code.
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştimek istediğimizi tartışmak için konu açınız
 
 # License 
-[MIT]
+[MIT][1]
+⋮
+[1]: https://choosealicense.com/licenses/mit/
