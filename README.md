@@ -20,4 +20,7 @@ code.
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştimek istediğimizi tartışmak için konu açınız
 
 # License 
-[MIT](https://choosealicense.com/licenses/mit/)
+
+[Link][1]
+⋮
+[1]: http://b.org
