@@ -16,4 +16,4 @@ code.
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştimek istediğimizi tartışmak için konu açınız
 
 # License 
-MIT
+[MIT]
