@@ -5,12 +5,14 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığ�
 
 # Installation
 Öncelikle projeyi clonelayın.
+
 '''
 git clone https://github.com/cemssari/kodluyoruzilkrepo.git
 '''
 
 # Usage
 Linux için:
+
 '''
 cd kodluyoruzilkrepo
 code.
